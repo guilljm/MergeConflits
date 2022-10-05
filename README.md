@@ -1,4 +1,4 @@
 # MergeConflits
-REMOTE
+REMOTE.
 Pizza Marguarita
 Pizza Reine
