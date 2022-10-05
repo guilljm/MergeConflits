@@ -1,4 +1,4 @@
 # MergeConflits
-LOCAL
+LOCAL1
 Pizza Marguarita
 Pizza Reine
